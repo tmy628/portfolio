@@ -80,18 +80,20 @@ MainVisual
   height: 1000px;
   text-align: center;
   color: #333;
+  display: flex;
+  align-items: center;
 }
 
 .mv-title {
-  padding-top: 200px;
   font-size: 60px; 
   font-weight: bold;
   line-height: 1.2;
 }
 
 .mv-text {
-  padding-top: 10px;
   font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
 }
 
 /* ==========

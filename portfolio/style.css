@@ -21,6 +21,19 @@ a {
   margin: 0 auto;
 }
 
+.heading {
+  text-align: center; 
+  font-size: 32px; 
+}
+
+.section {
+  padding: 90px 0;
+}
+
+.section:nth-child(odd) {
+  background-color: #f7f7f7;
+}
+
 /* ==========
 Header 
 ==========*/
@@ -95,6 +108,23 @@ MainVisual
   font-weight: bold;
   line-height: 1;
 }
+
+
+/* ==========
+Profile
+========== */
+
+/* ==========
+Skill
+========== */
+
+/* ==========
+Portfolio
+========== */
+
+/* ==========
+Contact
+========== */
 
 /* ==========
 Footer
